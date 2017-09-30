@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <loginUserMap>
+        <entry>
+            <key>Petya</key>
+            <value>
+                <login>Petya</login>
+                <password>qwerty</password>
+            </value>
+        </entry>
+        <entry>
+            <key>Anton</key>
+            <value>
+                <login>Anton</login>
+                <password>1234</password>
+            </value>
+        </entry>
+        <entry>
+            <key>Vasya</key>
+            <value>
+                <login>Vasya</login>
+                <password>qwer</password>
+            </value>
+        </entry>
+        <entry>
+            <key>Pavel</key>
+            <value>
+                <login>Pavel</login>
+                <password>1488</password>
+            </value>
+        </entry>
+        <entry>
+            <key>Anya</key>
+            <value>
+                <login>Anya</login>
+                <password>aaaa</password>
+            </value>
+        </entry>
+    </loginUserMap>
+</users>
