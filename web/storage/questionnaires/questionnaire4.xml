@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questionnaire name="Game of Thrones">
+    <question body="Who is your favorite main character?">
+        <answer>Tyrion Lannister</answer>
+        <answer>Jaime Lannister</answer>
+        <answer>Cersei Lannister</answer>
+        <answer>Jon Snow</answer>
+		<answer>Daenerys Targaryen</answer>
+    </question>
+    <question body="Who is your favorite main actor?">
+        <answer>Peter Dinklage</answer>
+        <answer>Nikolaj Coster-Waldau</answer>
+        <answer>Lena Headey</answer>
+        <answer>Kit Harington</answer>
+        <answer>Emilia Clarke</answer>
+    </question>
+	<question body="Do Who do you think will be sitting on the Iron Throne?">
+        <answer>Cersei Lannister</answer>
+        <answer>Daenerys Targaryen</answer>
+        <answer>Jon Snow</answer>
+        <answer>Night King</answer>
+        <answer>Everybody Dies!</answer>
+    </question>
+	<question body="Have you read George Martin's 'Song of Ice and Fire?'">
+        <answer>Yes, I read the whole cycle</answer>
+        <answer>Yes, but I haven't read it all</answer>
+        <answer>No</answer>
+    </question>
+</questionnaire>

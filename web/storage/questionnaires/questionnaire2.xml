@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<questionnaire name="What's your opinion about the cources Prog.kiev.ua">
+<questionnaire name="What's your opinion about the courses Prog.kiev.ua">
     <question body="Which course are you studying?">
         <answer>Java Start</answer>
         <answer>Java OOP</answer>
         <answer>Java Pro</answer>
         <answer>Android development</answer>
-		<answer>Another cource</answer>
+		<answer>Another course</answer>
 		<answer>No one from above</answer>
     </question>
     <question body="The lectures are informative?">

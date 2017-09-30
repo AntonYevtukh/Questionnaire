@@ -13,16 +13,17 @@
         <answer>A little bit</answer>
         <answer>Not sure</answer>
     </question>
-	<question body="Do you know C# programming language?">
+	<question body="Do you know HTML, CSS, JS programming languages?">
         <answer>Yes</answer>
         <answer>No</answer>
         <answer>A little bit</answer>
+        <answer>Not all of them</answer>
         <answer>Not sure</answer>
     </question>
 	<question body="Which IDE do you prefer to use?">
         <answer>IntelliJ IDEA</answer>
         <answer>NetBeans</answer>
-        <answer>Eclipce</answer>
+        <answer>Eclipse</answer>
         <answer>Sublime + Console</answer>
 		<answer>Notepad + Console</answer>
     </question>

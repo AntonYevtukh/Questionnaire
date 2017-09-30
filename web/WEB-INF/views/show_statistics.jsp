@@ -47,7 +47,7 @@
                             <i class="glyphicon glyphicon-ok" style="color: forestgreen; font-size: 20px; margin-top: -2px"></i>
                             <%} %>
                         </div>
-                        <label class="percent"><%=answerStatistics.getPercent()%>%</label>
+                        <label class="percent"><%=String.format("%.1f",answerStatistics.getPercent())%>%</label>
                         <div class="outer">
                             <div class="inner" style="width:<%=maxPercent == 0 ? 0 : 100 * answerStatistics.getPercent() / maxPercent%>%">
                             </div>
